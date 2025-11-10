@@ -1,7 +1,5 @@
 # -RID1234_Desafio01
-Ótimo\! Para um projeto de website baseado nos códigos HTML e CSS que criamos, um arquivo **README** é essencial. Ele serve como o manual do projeto, fornecendo uma visão geral, instruções de configuração e detalhes sobre a estrutura do código.
 
-Aqui está um modelo de README completo para o seu projeto de arquitetura.
 
 ## 📝 README: Projeto de Arquitetura - Website Institucional
 
